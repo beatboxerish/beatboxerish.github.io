@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home of Ish</title>
-    <link>https://beatboxerish.github.io/</link>
-    <description>Recent content on Home of Ish</description>
+    <title>Posts on Home of Ish</title>
+    <link>https://beatboxerish.github.io/posts/</link>
+    <description>Recent content in Posts on Home of Ish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Sep 2022 16:23:06 +0530</lastBuildDate><atom:link href="https://beatboxerish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2022 16:23:06 +0530</lastBuildDate><atom:link href="https://beatboxerish.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://beatboxerish.github.io/posts/about-me/</link>
@@ -18,7 +18,6 @@ Current Occupation: Data Scientist at Locus.sh
 In My Free Time: Birding, Reading about Wildlife, Badminton, Trying out new food
 I am a confused person who tries to make sense of things around him but fails to do so repeatedly. Constantly trying to figure out where to go from where I am. Zero patience&amp;hellip;</description>
     </item>
-    
     
   </channel>
 </rss>
