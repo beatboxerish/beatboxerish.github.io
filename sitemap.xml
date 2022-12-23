@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beatboxerish.github.io/</loc>
-    <lastmod>2022-10-05T16:49:36+05:30</lastmod>
+    <loc>https://beatboxerish.github.io/posts/dada/</loc>
+    <lastmod>2022-12-23T10:50:13+05:30</lastmod>
   </url><url>
-    <loc>https://beatboxerish.github.io/posts/musings-1.0/</loc>
-    <lastmod>2022-10-05T16:49:36+05:30</lastmod>
+    <loc>https://beatboxerish.github.io/</loc>
+    <lastmod>2022-12-23T10:50:13+05:30</lastmod>
   </url><url>
     <loc>https://beatboxerish.github.io/posts/</loc>
+    <lastmod>2022-12-23T10:50:13+05:30</lastmod>
+  </url><url>
+    <loc>https://beatboxerish.github.io/posts/musings-1.0/</loc>
     <lastmod>2022-10-05T16:49:36+05:30</lastmod>
   </url><url>
     <loc>https://beatboxerish.github.io/posts/about-me/</loc>
